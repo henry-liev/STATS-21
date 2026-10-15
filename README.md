@@ -1,6 +1,6 @@
 # Discussion Notebooks for STATS 21 Fall 2026
 
-Solutions will not be posted, but feel free to ask for hints, explanations, or email me at hliev@ucla.edu for questions.
+Solutions will not be posted, but feel free to ask for hints, explanations, or email me at hliev@ucla.edu for questions, though they may be discussed at the end of section.
 
 Office hours in MS 8349
 Monday: 11:00AM - 12:00PM
