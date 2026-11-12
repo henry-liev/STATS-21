@@ -2,8 +2,13 @@
 Discussion Solutions/
 *Solutions/
 *solutions/
+*Homework/
 
 # Jupyter & Python
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
+
+# Ignore gitignore
+.gitignore
+
