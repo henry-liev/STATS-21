@@ -9,6 +9,22 @@ Discussion Solutions/
 __pycache__/
 *.py[cod]
 
+# Exam files: only PDF files are not gitignored
+STATS_21_Final_Exam_*.md
+STATS_21_Final_Exam_*.tex
+veil.sty
+*.aux
+*.log
+*.out
+*.bcf
+*.run.xml
+*.unq
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex*
+
 # Ignore gitignore
 .gitignore
 
